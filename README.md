@@ -8,6 +8,16 @@ Also I keep an eye on the following technologies:
 
 [![My Skills](https://skillicons.dev/icons?i=arduino,rust,dotnet)](https://skillicons.dev)
 
+## Stats
+
+<a href="https://github.com/ShinChven/">
+    <img width="400" src="https://github-readme-stats.vercel.app/api?username=tastyteadev&show_icons=true&theme=onedark" alt="Github Stats" />
+</a>
+<br/>
+<a href="https://github.com/ShinChven/">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tastyteadev&theme=onedark&layout=compact&alt="Top Languages" />
+</a>
+
 
 <!--
 **tastyteadev/tastyteadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
