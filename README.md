@@ -10,11 +10,11 @@ Also I keep an eye on the following technologies:
 
 ## Stats
 
-<a href="https://github.com/ShinChven/">
+<a href="https://github.com/tastyteadev/">
     <img width="400" src="https://github-readme-stats.vercel.app/api?username=tastyteadev&show_icons=true&theme=shades-of-purple" alt="Github Stats" />
 </a>
 <br/>
-<a href="https://github.com/ShinChven/">
+<a href="https://github.com/tastyteadev/">
     <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tastyteadev&theme=shades-of-purple&layout=compact&alt="Top Languages" />
 </a>
 
