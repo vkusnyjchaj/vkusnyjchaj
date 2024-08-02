@@ -6,7 +6,7 @@ I am frontend web developer. Below are frameworks and tools I use:
 
 Also I keep an eye on the following technologies:
 
-[![My Skills](https://skillicons.dev/icons?i=arduino,rust)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arduino,rust,go)](https://skillicons.dev)
 
 ## Stats
 
