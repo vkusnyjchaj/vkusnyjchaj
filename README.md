@@ -10,17 +10,17 @@ Also I keep an eye on the following technologies:
 
 ## Stats
 
-<a href="https://github.com/tastyteadev/">
-    <img width="400" src="https://github-readme-stats.vercel.app/api?username=tastyteadev&show_icons=true&theme=shades-of-purple" alt="Github Stats" />
+<a href="https://github.com/vkusnyjchaj/">
+    <img width="400" src="https://github-readme-stats.vercel.app/api?username=vkusnyjchaj&show_icons=true&theme=shades-of-purple" alt="Github Stats" />
 </a>
 <br/>
-<a href="https://github.com/tastyteadev/">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tastyteadev&theme=shades-of-purple&layout=compact&alt="Top Languages" />
+<a href="https://github.com/vkusnyjchaj/">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vkusnyjchaj&theme=shades-of-purple&layout=compact&alt="Top Languages" />
 </a>
 
 
 <!--
-**tastyteadev/tastyteadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**vkusnyjchaj/vkusnyjchaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
